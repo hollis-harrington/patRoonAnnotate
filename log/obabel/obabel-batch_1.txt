@@ -1,0 +1,11 @@
+command: C:/Users/holli/OneDrive - SUNY ESF/Documents/PhD Research/R Programs/patRoon/patRoon-bundle-2.3.2/user/library/patRoonExt/ext/openbabel/obabel.exe
+args: -osmi -e -an -iinchi C:\Users\holli\AppData\Local\Temp\RtmpMXRhyz\obabel_in20987d453afa -O C:\Users\holli\AppData\Local\Temp\RtmpMXRhyz\obabel_out2098536f48bf --append formula
+
+---
+
+output:
+
+
+standard error output:
+0 molecules converted
+

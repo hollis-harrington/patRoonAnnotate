@@ -18,7 +18,7 @@ options(patRoon.path.pwiz = "C:/Users/holli/AppData/Local/Apps/ProteoWizard 3.0.
 # initialization
 # -------------------------
 
-workPath <- "C:/Users/holli/OneDrive - SUNY ESF/Documents/PhD Research/R Programs/patRoon 241030 SPE 3 Test"
+workPath <- "C:/Users/holli/OneDrive - SUNY ESF/Documents/PhD Research/R Programs/patRoonAnnotate"
 setwd(workPath)
 
 # Load analysis table

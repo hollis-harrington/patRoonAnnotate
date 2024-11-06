@@ -1,0 +1,27 @@
+command: C:/Users/holli/OneDrive - SUNY ESF/Documents/PhD Research/R Programs/patRoon/patRoon-bundle-2.3.2/user/library/patRoonExt/ext/openms/bin/FeatureFinderMetabo.exe
+args: -algorithm:common:noise_threshold_int 1e+05 -algorithm:common:chrom_peak_snr 5 -algorithm:common:chrom_fwhm 5 -algorithm:mtd:mass_error_ppm 10 -algorithm:mtd:reestimate_mt_sd true -algorithm:mtd:trace_termination_criterion sample_rate -algorithm:mtd:trace_termination_outliers 5 -algorithm:mtd:min_sample_rate 0.5 -algorithm:mtd:min_trace_length 3 -algorithm:mtd:max_trace_length -1 -algorithm:epd:width_filtering fixed -algorithm:epd:min_fwhm 2 -algorithm:epd:max_fwhm 30 -algorithm:ffm:local_rt_range 10 -algorithm:ffm:local_mz_range 6.5 -algorithm:ffm:isotope_filtering_model metabolites (5% RMS) -algorithm:ffm:mz_scoring_13C false -algorithm:ffm:use_smoothed_intensities true -algorithm:ffm:report_convex_hulls true -in C:/Users/holli/OneDrive - SUNY ESF/Documents/PhD Research/Thesis Work/Thermo Q Exactive HF LC Mass Spec/241030 Arbutus SPE 3 Test/mzML/241030_15+_TF_32_MSMS.mzML -out C:\Users\holli\AppData\Local\Temp\RtmpMXRhyz\file209834ec1885.featureXML
+
+---
+
+output:
+Progress of 'loading spectra list':
+  44.99 %               -- done [took 1.08 s (CPU), 1.22 s (Wall)] -- 
+Progress of 'loading chromatogram list':
+-- done [took 0.02 s (CPU), 0.00 s (Wall)] -- 
+Progress of 'mass trace detection':
+  48.30 %               -- done [took 0.33 s (CPU), 0.32 s (Wall)] -- 
+Progress of 'elution peak detection':
+-- done [took 0.17 s (CPU), 0.19 s (Wall)] -- 
+Progress of 'assembling mass traces to features':
+Loading metabolite isotope model with 5% RMS error
+-- done [took 0.06 s (CPU), 0.06 s (Wall)] -- 
+-- FF-Metabo stats --
+Input traces:    2186
+Output features: 1985 (total trace count: 2186)
+Progress of 'Storing featureXML file':
+-- done [took 0.53 s (CPU), 0.52 s (Wall)] -- 
+FeatureFinderMetabo took 2.72 s (wall), 2.58 s (CPU), 0.25 s (system), 2.33 s (user); Peak Memory Usage: 218 MB.
+
+
+standard error output:
+

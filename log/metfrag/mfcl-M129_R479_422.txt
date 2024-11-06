@@ -1,0 +1,21 @@
+command: java
+args: -jar C:/Users/holli/OneDrive - SUNY ESF/Documents/PhD Research/R Programs/patRoon/patRoon-bundle-2.3.2/user/library/patRoonExt/ext/MetFragCommandLine.jar C:\Users\holli\AppData\Local\Temp\RtmpMXRhyz\parameters20987d2a1268.txt
+
+---
+
+output:
+14:35:25.166 INFO  de.ipbhalle.metfraglib.process.CombinedMetFragProcess - Got 157 candidate(s)
+14:35:26.657 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 10 %
+14:35:26.811 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 20 %
+14:35:26.939 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 30 %
+14:35:27.063 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 40 %
+14:35:27.171 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 50 %
+14:35:27.241 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 60 %
+14:35:27.309 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 70 %
+14:35:27.379 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 80 %
+14:35:27.450 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 90 %
+14:35:27.527 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 100 %
+
+
+standard error output:
+

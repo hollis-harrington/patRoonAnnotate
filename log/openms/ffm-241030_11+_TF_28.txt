@@ -1,0 +1,11 @@
+command: C:/Users/holli/OneDrive - SUNY ESF/Documents/PhD Research/R Programs/patRoon/patRoon-bundle-2.3.2/user/library/patRoonExt/ext/openms/bin/FeatureFinderMetabo.exe
+args: -algorithm:common:noise_threshold_int 1e+05 -algorithm:common:chrom_peak_snr 5 -algorithm:common:chrom_fwhm 5 -algorithm:mtd:mass_error_ppm 10 -algorithm:mtd:reestimate_mt_sd true -algorithm:mtd:trace_termination_criterion sample_rate -algorithm:mtd:trace_termination_outliers 5 -algorithm:mtd:min_sample_rate 0.5 -algorithm:mtd:min_trace_length 3 -algorithm:mtd:max_trace_length -1 -algorithm:epd:width_filtering fixed -algorithm:epd:min_fwhm 2 -algorithm:epd:max_fwhm 30 -algorithm:ffm:local_rt_range 10 -algorithm:ffm:local_mz_range 6.5 -algorithm:ffm:isotope_filtering_model metabolites (5% RMS) -algorithm:ffm:mz_scoring_13C false -algorithm:ffm:use_smoothed_intensities true -algorithm:ffm:report_convex_hulls true -in C:/Users/holli/OneDrive - SUNY ESF/Documents/PhD Research/Thesis Work/Thermo Q Exactive HF LC Mass Spec/241030 Arbutus SPE 3 Test/mzML/241030_11+_TF_28.mzML -out C:\Users\holli\AppData\Local\Temp\RtmpMXRhyz\file20984b15485d.featureXML
+
+---
+
+output:
+Progress of 'loading spectra list':
+  49.50 %               
+
+standard error output:
+

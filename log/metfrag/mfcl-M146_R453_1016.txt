@@ -1,0 +1,22 @@
+command: java
+args: -jar C:/Users/holli/OneDrive - SUNY ESF/Documents/PhD Research/R Programs/patRoon/patRoon-bundle-2.3.2/user/library/patRoonExt/ext/MetFragCommandLine.jar C:\Users\holli\AppData\Local\Temp\RtmpMXRhyz\parameters209856dd182.txt
+
+---
+
+output:
+14:37:22.489 INFO  de.ipbhalle.metfraglib.process.CombinedMetFragProcess - Got 42 candidate(s)
+14:37:24.288 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 10 %
+14:37:24.337 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 20 %
+14:37:24.372 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 30 %
+14:37:24.412 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 40 %
+14:37:24.437 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 50 %
+14:37:24.465 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 60 %
+14:37:24.489 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 70 %
+14:37:24.507 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 80 %
+14:37:24.533 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 90 %
+14:37:24.559 INFO  de.ipbhalle.metfraglib.process.ProcessingStatus - 100 %
+14:37:24.930 INFO  de.ipbhalle.metfraglib.process.CombinedMetFragProcess - 0 candidate(s) were discarded before processing due to pre-filtering
+
+
+standard error output:
+

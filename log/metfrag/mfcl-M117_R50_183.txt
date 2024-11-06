@@ -1,0 +1,13 @@
+command: java
+args: -jar C:/Users/holli/OneDrive - SUNY ESF/Documents/PhD Research/R Programs/patRoon/patRoon-bundle-2.3.2/user/library/patRoonExt/ext/MetFragCommandLine.jar C:\Users\holli\AppData\Local\Temp\RtmpMXRhyz\parameters209846cf459c.txt
+
+---
+
+output:
+14:34:22.771 ERROR de.ipbhalle.metfraglib.parameter.SettingsChecker - M+H not known!
+14:34:31.575 ERROR de.ipbhalle.metfraglib.parameter.SettingsChecker - M+H not known!
+14:34:39.303 ERROR de.ipbhalle.metfraglib.parameter.SettingsChecker - M+H not known!
+
+
+standard error output:
+

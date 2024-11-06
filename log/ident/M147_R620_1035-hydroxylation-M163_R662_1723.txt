@@ -1,0 +1,39 @@
+Estimating identification level for 'M147_R620_1035-hydroxylation' to feature group 'M163_R662_1723'
+---
+NOTE: the suspect formula could not be matched with the formula annotations.
+NOTE: there is no compound data (eg InChIKey) available for this suspect.
+Checking level '1'
+    Checking ID level type 'suspectFragments'
+    ID level failed: no fragments to match
+Checking level '2a'
+    Checking ID level type 'or'
+        check OR condition 1/2
+                Checking ID level type 'individualMoNAScore'
+                ID level failed: score not available
+        check OR condition 2/2
+                Checking ID level type 'libMatch'
+                ID level failed: score not available
+Checking level '3a'
+    Checking ID level type 'or'
+        check OR condition 1/2
+                Checking ID level type 'individualMoNAScore'
+                ID level failed: score not available
+        check OR condition 2/2
+                Checking ID level type 'libMatch'
+                ID level failed: score not available
+Checking level '3b'
+    Checking ID level type 'suspectFragments'
+    ID level failed: no fragments to match
+Checking level '3c'
+    Checking ID level type 'annMSMSSim' (for compound)
+    ID level failed: no calculated similarity
+Checking level '4a'
+    Checking ID level type 'annMSMSSim' (for formula)
+    ID level failed: no calculated similarity
+Checking level '4b'
+    Checking ID level type 'isoScore'
+    ID level failed: score not available
+Checking level '5'
+    Checking ID level type 'all'
+    ID level type passed!
+assigned level '5'!
